@@ -1,0 +1,4 @@
+interface:
+  display_name: "NHT Technical Specs"
+  short_description: "Draft and maintain technical specs in Outline"
+  default_prompt: "Use $nht-technical-specs to develop a technical specification in NHT Specs from our product requirements."
